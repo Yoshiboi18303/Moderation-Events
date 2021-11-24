@@ -1,0 +1,5 @@
+.replit
+.config/
+*.json
+replit.nix
+.cache/
